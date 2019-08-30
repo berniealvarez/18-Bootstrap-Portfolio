@@ -1,0 +1,11 @@
+
+ .projects {
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: space-evenly;
+ }
+
+ .image {
+    display: flex;
+    justify-content: flex-end;
+ }
